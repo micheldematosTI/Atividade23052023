@@ -84,3 +84,27 @@
     background-color: hotpink;
     height: 10vh;
 }
+
+
+.topo01_layout04{
+    background-color: darkcyan;
+    height: 10vh;
+}
+
+.topo02_layout04{
+    background-color: deeppink;
+    height: 10vh;
+}
+
+.menu_layout04{
+    background-color: cadetblue;
+    height: 70vh;
+    width: 20vw;
+    float: right;
+}
+
+.conteudo_layout04{
+    background-color: darkgrey;
+    height: 70vh;
+    width: 80vw;    
+}
