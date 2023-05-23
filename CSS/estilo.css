@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topo_layout01{
+    background-color: aqua;
+    height: 10vh;
+}
+
+.menu_layout01{
+    background-color: blueviolet;
+    height: 80vh;
+    width: 20vw;
+    float: left;
+}
+
+.conteudo_layout01{
+    background-color: brown;
+    height: 80vh;
+    width: 80vw;
+    position: relative; left: 20vw;
+}
+
+.rodape_layout01{
+    background-color: gold;
+    height: 10vh;
+}
