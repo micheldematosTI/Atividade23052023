@@ -26,3 +26,36 @@
     background-color: gold;
     height: 10vh;
 }
+
+
+
+.topo_layout02{
+    background-color: black;
+    height: 10vh;
+}
+
+.menuE_layout02{
+    background-color: chartreuse;
+    height: 80vh;
+    width: 10vw;
+    float: left;
+}
+
+.conteudo_layout02{
+    background-color: brown;
+    height: 80vh;
+    width: 80vw;
+    float: left;
+}
+
+.menuD_layout02{
+    background-color: cyan;
+    height: 80vh;
+    width: 10vw;
+    position: relative; left: 90vw;
+}
+
+.rodape_layout02{
+    background-color: crimson;
+    height: 10vh;
+}
