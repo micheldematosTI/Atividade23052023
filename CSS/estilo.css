@@ -59,3 +59,28 @@
     background-color: crimson;
     height: 10vh;
 }
+
+
+
+.topo_layout03{
+    background-color: darkblue;
+    height: 10vh;
+}
+
+.menu_layout03{
+    background-color: cadetblue;
+    height: 80vh;
+    width: 20vw;
+    float: right;
+}
+
+.conteudo_layout03{
+    background-color: darkgrey;
+    height: 80vh;
+    width: 80vw;    
+}
+
+.rodape_layout03{
+    background-color: hotpink;
+    height: 10vh;
+}
