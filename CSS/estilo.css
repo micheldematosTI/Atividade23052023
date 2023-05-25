@@ -123,7 +123,30 @@
     background-color: aqua;
     height: 84vh;
     width: 20vw;
+    float: left;
 }
+
+.conteudo01_layout05{
+    background-color: crimson;
+    height: 28vh;
+    width: 80vw;  
+    position: relative; left: 20vw;  
+}
+
+.conteudo02_layout05{
+    background-color: darkblue;
+    height: 28vh;
+    width: 80vw;   
+    position: relative; left: 20vw;   
+}
+
+.conteudo03_layout05{
+    background-color: deeppink;
+    height: 28vh;
+    width: 80vw;    
+    position: relative; left: 20vw;  
+}
+
 
 .rodape_layout05{
     background-color: darkmagenta;
