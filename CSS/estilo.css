@@ -113,3 +113,19 @@
     background-color: crimson;
     height: 10vh;
 }
+
+.topo01_layout05{
+    background-color: chartreuse;
+    height: 8vh;
+}
+
+.menu_layout05{
+    background-color: aqua;
+    height: 84vh;
+    width: 20vw;
+}
+
+.rodape_layout05{
+    background-color: darkmagenta;
+    height: 8vh;
+}
